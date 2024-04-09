@@ -1,5 +1,9 @@
-# %%
-
+# %% [markdown]
+"""
+# Lessons:
+1. For static arrays, questions don't want a new array (that's dynamic like in python)
+2. Having two pointers works well, increment one over the whole array and the other when a condition is met
+"""
 
         
 # %%
@@ -23,9 +27,3 @@ for i in range(len(nums)):
         index += 1
 
 nums
-# %% [markdown]
-"""
-# Lessons:
-1. For static arrays, questions don't want a new array (that's dynamic like in python)
-2. Having two pointers works well, increment one over the whole array and the other when a condition is met
-"""
